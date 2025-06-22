@@ -68,17 +68,4 @@ All commands are written with comments to help understanding and reuse.
 
 ---
 
-## 🚀 What's Next?
-
-Coming up next:
-- Docker Compose (multi-container apps)
-- Dockerfile Best Practices
-- Deploying Real Projects using Docker
-- Docker + Golang + MySQL Stack
-- CI/CD & Docker in Production
-
----
-
-Thanks for joining me on this Docker learning journey! 🌟  
-Feel free to ⭐️ star this repo if it's helpful.  
-Happy Dockering! 🐋
+Thanks for joining me on this Docker learning journey!
