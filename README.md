@@ -1,5 +1,5 @@
 # 🐳 Learn Docker Basics  
-**Using Docker Version**: Latest (via Docker Desktop)
+**Using Docker Version**: 28.2.2 (via Docker Desktop)
 
 ---
 
