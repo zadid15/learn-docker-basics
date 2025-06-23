@@ -14,7 +14,7 @@ All commands are written with comments to help understanding and reuse.
 
 🔥 Huge thanks to [**Pemrograman Zaman Now**](https://youtube.com/@ProgrammerZamanNow) for the amazing Docker tutorial:
 
-- 🎥 [Watch the YouTube Video - Docker Dasar (Bahasa Indonesia)](https://www.youtube.com/watch?v=3_yxVjV88Zk)
+- 🎥 [Watch the YouTube Video - TUTORIAL DOCKER DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=3_yxVjV88Zk)
 
 ---
 
